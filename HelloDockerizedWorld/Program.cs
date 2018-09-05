@@ -15,7 +15,7 @@ namespace HelloDockerizedWorld
 
 		public static string GetOutputMessage()
 		{
-			return "Hello D World";
+			return "Hello Do World";
 		}
 	}
 }
